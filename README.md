@@ -1,5 +1,9 @@
 # HogGame
 
+* This project is a modified version of UCB CS 61A - Hog project, available [here]
+
+[here]: <https://inst.eecs.berkeley.edu//~cs61a/fa13/proj/hog/hog.html>
+
 //TO DO
 ![](add gif of game) 
 
