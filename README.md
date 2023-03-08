@@ -5,7 +5,7 @@
 [here]: <https://inst.eecs.berkeley.edu//~cs61a/fa13/proj/hog/hog.html>
 
 //TO DO
-![](add gif of game) 
+![](https://github.com/ZhihanTuo/HogGame/blob/995e383b5a88be5e0139a8b58d27b2e5522c3d14/images/Sample.gif?raw=true) 
 
 ### 1. Introduction
 In Hog, two players alternate turns trying to reach 100 points first. On each turn, the current player chooses some number of dice to roll, up to 10. His/Her turn score is the sum of the dice outcomes, unless any of the dice come up a 1, in which case the score for his/her turn is only 1 point (the Pig out rule).
