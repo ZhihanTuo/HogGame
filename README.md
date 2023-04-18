@@ -4,7 +4,6 @@
 
 [here]: <https://inst.eecs.berkeley.edu//~cs61a/fa13/proj/hog/hog.html>
 
-//TO DO
 ![](https://github.com/ZhihanTuo/HogGame/blob/995e383b5a88be5e0139a8b58d27b2e5522c3d14/images/Sample.gif?raw=true) 
 
 ### 1. Introduction
